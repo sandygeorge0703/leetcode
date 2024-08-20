@@ -6,7 +6,6 @@ var removeElement = function (nums, val) {
       i++;
     }
   }
-  console.log(i); // This will log the value of i
   return i;
 };
 
